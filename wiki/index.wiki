@@ -1,0 +1,10 @@
+wiki頁面
+=zhuhe|Republic Of China=
+==我的主頁自己做的、我就是我、中國未來的大總統==
+||[http://zhuhe.tk 首頁]||[http://blog.zhuhe.tk 博客]||[http://www.flickr.com/photos/98436595@N08 相冊]||[http://dll.zhuhe.tk/ 下載]||[http://zhuhe.tk/doc 文檔]||[http://zhuhe.tk/love 永遠]||[mailto:zhuhe@zhuhe.tk 我的郵箱]||[http://zhuhe.tk/zhuhe 朱賀簡介]||[http://zhuhe.tk/huahua 畫畫]||[http://zhuhe.tk/ys 顏色]||[http://zhuhe.tk/calendar 萬年曆]||[http://zhuhe.tk/help 幫助]||
+
+||[http://zhuhe.tk/c 朱賀編程[經典教程]]||[http://zhuhe.tk/licai 朱賀理財[專業通道]]||[http://mail.zhuhe.tk 朱賀郵局[個人電郵]]||[http://zhuhe.tk/tv 朱賀電視[初步測試]]||
+
+  * 謝謝大家的支持
+  * 因為服務器的經費問題、已刪除大多數子域名、
+  * 改為目錄模式
